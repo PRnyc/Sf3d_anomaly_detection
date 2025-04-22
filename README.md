@@ -36,9 +36,9 @@ pip install -r requirements.txt
 ## Follow the Notebook Steps:
 Reconstruct a 3D mesh from an image using SF3D
 
-Create synthetic anomalies (vertex shifts, holes, cracks)
-
 Train a Graph Autoencoder (GAE)
+
+Create synthetic anomalies (vertex shifts, holes, cracks)
 
 Visualize and evaluate anomaly detection
 
