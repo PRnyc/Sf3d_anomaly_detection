@@ -26,9 +26,26 @@ It integrates **SF3D-based 3D mesh reconstruction** and **Graph Autoencoder (GAE
 
 1. Clone this repository and make sure you have the SF3D repo downloaded inside.
 
-2. Install the required dependencies:
+3. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+---
+
+
+
+
+
+
+
+
+Follow the Notebook Steps:
+Reconstruct a 3D mesh from an image using SF3D
+
+Create synthetic anomalies (vertex shifts, holes, cracks)
+
+Train a Graph Autoencoder (GAE)
+
+Visualize and evaluate anomaly detection
 
 
