@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ```
 
-Follow the Notebook Steps:
+## Follow the Notebook Steps:
 Reconstruct a 3D mesh from an image using SF3D
 
 Create synthetic anomalies (vertex shifts, holes, cracks)
@@ -42,7 +42,7 @@ Train a Graph Autoencoder (GAE)
 
 Visualize and evaluate anomaly detection
 
-🔥 Key Results
+## 🔥 Key Results
 
 F1-score: 0.81 on synthetic datasets
 
@@ -52,7 +52,7 @@ Real-world generalization: Detecting natural defects in SF3D-generated meshes
 
 Color-coded heatmaps and ROC curves are generated inside the notebook.
 
-🛠️ Technologies
+## 🛠️ Technologies
 
 Stable Fast 3D (SF3D)
 
@@ -66,7 +66,7 @@ Jupyter Notebook
 
 🧠 Thesis Reference Agyapong, P. K. (2025). Evaluation of the Potential of Mesh Reconstructions from SF3D for Anomaly Detection. Master of Science Thesis, University of Wuppertal.
 
-📚 External Dependencies
+## 📚 External Dependencies 
 SF3D (Stable Fast 3D) for 3D mesh reconstruction was downloaded and used under its original license.
 
 SF3D GitHub Repository
@@ -76,7 +76,7 @@ Credit to the original authors of SF3D for their open-source contribution.
 Note: The sf3d/ directory refers to the downloaded SF3D repository.
 Please download it separately from: https://github.com/OpenVisionAI/Stable-Fast-3D
 
-🛡️ License This project is licensed under the MIT License.
+## 🛡️ License This project is licensed under the MIT License.
 
 Developed with ❤️ in the spirit of Computer simulations and machine learning research.
 
