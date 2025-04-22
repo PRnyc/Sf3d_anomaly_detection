@@ -65,7 +65,8 @@ Open3D
 Jupyter Notebook
 
 
-## 🧠 Thesis Reference Agyapong, P. K. (2025). Evaluation of the Potential of Mesh Reconstructions from SF3D for Anomaly Detection. Master of Science Thesis, University of Wuppertal.
+# 🧠 Thesis Reference
+Agyapong, P. K. (2025). Evaluation of the Potential of Mesh Reconstructions from SF3D for Anomaly Detection. Master of Science Thesis, University of Wuppertal.
 
 
 ## 📚 External Dependencies 
