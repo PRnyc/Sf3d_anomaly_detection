@@ -79,7 +79,8 @@ Credit to the original authors of SF3D for their open-source contribution.
 Note: The sf3d/ directory refers to the downloaded SF3D repository.
 Please download it separately from: https://github.com/OpenVisionAI/Stable-Fast-3D
 
-## 🛡️ License This project is licensed under the MIT License.
+## 🛡️ License 
+This project is licensed under the MIT License.
 
 Developed with ❤️ in the spirit of Computer simulations and machine learning research.
 
